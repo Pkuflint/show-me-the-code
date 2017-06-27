@@ -1,0 +1,7 @@
+The iPad is getting a major overhaul this year.
+iOS 11, which is available today in beta as a public preview, adds a slew of new features to the iPad as the device inches closer to its goal of becoming a laptop replacement.
+There's a new app for managing files, an app dock that mimics the one on your Mac, some new multitasking features, and loads of other goodies that make it easier to get things done.
+
+It's the biggest iPad software update since the device launched over seven years ago.
+I've been testing the iOS 11 public beta for a few days. You can try it too by signing up here. (It's also available for iPhone.) But keep in mind that it's still technically beta software, so you might encounter some bugs. The final version will be available this fall.
+Keep reading to see the most important changes coming in iOS 11.
